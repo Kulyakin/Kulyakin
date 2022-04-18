@@ -29,7 +29,7 @@
 
 ## My Github Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kulyakin&count_private=true&show_icons=true&theme=material-palenight&layout=compact" alt="kulyakin" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulyakin&count_private=true&hide=tsql&langs_count=7&theme=material-palenight&layout=compact" alt="kulyakin" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kulyakin&count_private=true&show_icons=true&theme=nightowl&layout=compact" alt="kulyakin" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulyakin&count_private=true&hide=tsql&langs_count=7&theme=nightowl&layout=compact" alt="kulyakin" /></p>
   
   
 
