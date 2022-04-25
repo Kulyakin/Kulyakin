@@ -4,7 +4,7 @@
 ### Contacts
   [<img height="50" src="https://img.icons8.com/color/344/gmail-new.png">](mailto:kulyakinv@gmail.com)
   [<img height="50" src="https://img.icons8.com/color/344/telegram-app--v1.png">](https://t.me/sperokul)
-  [<img height="50" src="https://img.icons8.com/color/344/vk-circled--v3.png">](https://vk.com/kulyakinvlad)
+  [<img height="50" src="https://img.icons8.com/fluency/344/linkedin.png">](https://www.linkedin.com/in/kulyakin/)
 
 ### Main languages and tools
 
